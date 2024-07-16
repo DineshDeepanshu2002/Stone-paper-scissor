@@ -1,8 +1,8 @@
 * { margin: 0; padding: 0;}
-body {   text-align: center;}
+body {   text-align: center; background-color: aqua;}
 
  h1 {  background-color: #081b31;
-    color: #fff;
+    color: #ae3e3e;
     height: 5rem;
     line-height: 5rem; }
 
@@ -43,7 +43,7 @@ font-size:  2rem;
   font-size: 1.2rem;
  
 margin-left: -17rem ; 
-background-color: #081b31;
+background-color: #083c78;
 color: #fff;
 display: inline;
 border-radius: 0.3rem ;
